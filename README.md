@@ -2,7 +2,7 @@
 
 🏫 Cybersecurity Student at VUTP, Sofia/Bulgaria.<br/>
 🐍 I teach kids Python, helping them hop in the world of IT.<br/>
-🌐 Public Notes, Write-Up's, Articles, Drawings on my [Personal Site](https://bata-mladen.gitbook.io/bata-mladen/)<br/>
+🌐 Public Notes, Write-Up's, Articles, Drawings on my [Digital Garden](https://bata-mladen.gitbook.io/bata-mladen/)<br/>
 👨‍🔬 Aspiring SOC Analytic<br/>
 🙂 Hobbies: Footbal, Fitness, Portrait Drawing.<br/>
 
