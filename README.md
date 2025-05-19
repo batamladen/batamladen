@@ -6,6 +6,10 @@
 👨‍🔬 Aspiring SOC Analytic<br/>
 🙂 Hobbies: Footbal, Fitness, Portrait Drawing.<br/>
 
+
+<a href="https://app.daily.dev/batamladen"><img src="https://api.daily.dev/devcards/v2/lBxoSbe9R8vBiaBKhATnx.png?type=default&r=puj" width="356" alt="Mladen Nikolov's Dev Card"/></a>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bata_mladen) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mladen-nikolov-1b4720200/)
