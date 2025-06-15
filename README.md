@@ -1,9 +1,8 @@
 ## Hi I'm Mladen 👋
 
-🏫 Cybersecurity Student at VUTP, Sofia/Bulgaria.<br/>
+👨‍🔬 Aspiring SOC Analytic<br/>
 🐍 I teach kids Python, helping them hop in the world of IT.<br/>
 🌐 Public Notes, Write-Up's, Articles, Drawings on my [Digital Garden](https://bata-mladen.gitbook.io/bata-mladen/)<br/>
-👨‍🔬 Aspiring SOC Analytic<br/>
 🙂 Hobbies: Footbal, Fitness, Portrait Drawing.<br/>
 
 ## DailyDev Card
