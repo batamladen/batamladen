@@ -1,7 +1,7 @@
 ## Hi I'm Mladen 👋
 
-👨‍🔬 Aspiring SOC Analytic<br/>
-🐍 I teach kids Python, helping them hop in the world of IT.<br/>
+👨‍🔬 Cloud Security Engineer<br/>
+👾 Creating fun, storytelling wargame challenges
 🌐 Public Notes, Write-Up's, Articles, Drawings on my [Digital Garden](https://bata-mladen.gitbook.io/bata-mladen/)<br/>
 🙂 Hobbies: Footbal, Fitness, Portrait Drawing.<br/>
 
